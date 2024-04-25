@@ -9,7 +9,13 @@ This notebook demonstrates the use of Grounding DINO, a state-of-the-art model f
 
 ```
 !pip install diffusers transformers accelerate scipy safetensors
+
+```
+```
 !pip install git+https://github.com/facebookresearch/segment-anything.git
+
+```
+```
 !git clone https://github.com/IDEA-Research/GroundingDINO.git
 ```
 
