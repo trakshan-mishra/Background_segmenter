@@ -42,4 +42,4 @@ The notebook includes an example where the text prompt "rock" is used to detect 
 This project is licensed under the [MIT License](LICENSE).
 ```
 
-This README provides an overview of the notebook, instructions for setting up the required dependencies, and information on how to use the models. It also includes an example use case and credits for the models used. Feel free to modify the content as per your requirements.
+This README provides an overview of the notebook, instructions for setting up the required dependencies, and information on how to use the models. It also includes an example use case and credits for the models used. 
